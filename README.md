@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+#### Ruby on rails is running...
+<kbd><img src="./public/On-rails-screenshot.png" alt="Ruby on rails is running screenshot"></kbd>
